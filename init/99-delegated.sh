@@ -1,3 +1,3 @@
 #!/bin/sh
 
-delegated -f +=/etc/delegate.conf
+exec delegated -f +=/etc/delegate.conf
